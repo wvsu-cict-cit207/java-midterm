@@ -31,7 +31,6 @@ Enter Age: 21
 Select an Option: 3
 
 =======View all Entries======
-
 Anna is 18
 Victoria is 20
 Jose is 21

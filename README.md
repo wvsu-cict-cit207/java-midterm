@@ -8,6 +8,7 @@ methods.
 0. Exit
 
 ####Sample Program
+
 +++++++Options++++++++
 1. Add entry
 2. Delete entry

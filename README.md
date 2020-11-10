@@ -9,7 +9,7 @@ methods.
 
 ####Sample Program
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -17,12 +17,12 @@ methods.
 0. Exit
 Select an Option: 1
 
-*******Add Entry********
+=======Add Entry========
 
 Enter Name: Jose
 Enter Age: 21
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -30,13 +30,13 @@ Enter Age: 21
 0. Exit
 Select an Option: 3
 
-*******View all Entries******
+=======View all Entries======
 
 Anna is 18
 Victoria is 20
 Jose is 21
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -44,12 +44,12 @@ Jose is 21
 0. Exit
 Select an Option: 4
 
-******Update an Entry*******
+======Update an Entry=======
 
 Enter New Name: Mario
 Enter New Age: 22
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -57,12 +57,12 @@ Enter New Age: 22
 0. Exit
 Select an Option: 2
 
-******Delete Entry******
+======Delete Entry======
 
 Enter Name to Delete: John
 No John in the list
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -70,12 +70,12 @@ No John in the list
 0. Exit
 Select an Option: 2
 
-******Delete Entry******
+======Delete Entry======
 
 Enter Name to Delete: Anna
 Anna has been deleted!
 
-*******Options********
+=======Options========
 1. Add entry
 2. Delete entry
 3. View all entries
@@ -84,6 +84,6 @@ Anna has been deleted!
 Select an Option: 3
 
 
-*******View all Entries******
+=======View all Entries======
 Victoria is 20
 Jose is 21
